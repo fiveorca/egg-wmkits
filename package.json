@@ -1,5 +1,5 @@
 {
-  "name": "wmkits",
+  "name": "egg-wmkits",
   "version": "1.0.0",
   "description": "wmkits基础框架",
   "dependencies": {
@@ -41,7 +41,8 @@
   },
   "keywords": [
     "egg",
-    "egg-framework"
+    "egg-framework",
+    "egg-wmkits"
   ],
   "author": "fiveorca",
   "files": [
